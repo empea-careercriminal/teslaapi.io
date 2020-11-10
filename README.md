@@ -1,4 +1,4 @@
-# Tesla API
+# Tesla API - Edith
 
 ## How is this site organized?
 
